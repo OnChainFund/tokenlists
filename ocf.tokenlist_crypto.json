@@ -44,8 +44,8 @@
     {
       "chainId": 43113,
       "address": "0x5B3a2CAED90515e36830167529AFeDea75419b7a",
-      "name": "LINK ",
-      "symbol": "LINK ",
+      "name": "LINK",
+      "symbol": "LINK",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x5947BB275c521040051D82396192181b413227A3/logo.png"
     },
