@@ -28,16 +28,16 @@
     {
       "chainId": 43113,
       "address": "0xbC9052c594261Acc1a26271567bDb72A8A1Acac9",
-      "name": "WBTC ",
-      "symbol": "WBTC ",
+      "name": "WBTC",
+      "symbol": "WBTC",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x50b7545627a5162F82A992c33b87aDc75187B218/logo.png"
     },
     {
       "chainId": 43113,
       "address": "0x96058B65CE7d0DBa4B85DAf49E06663B97442137",
-      "name": "WETH ",
-      "symbol": "WETH ",
+      "name": "WETH",
+      "symbol": "WETH",
       "decimals": 18,
       "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
     },
